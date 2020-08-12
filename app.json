@@ -4,11 +4,11 @@
     "slug": "MealsApp",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/burger.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splashImage.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#ff6f00"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An app containing different categories of meal and detailed steps of recipes.Usage of drawer and tab navigation.Also,you can add your favourite meals seperately"
   }
 }
